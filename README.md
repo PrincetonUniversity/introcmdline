@@ -89,9 +89,9 @@ https://ia800305.us.archive.org/29/items/unitedstatesdecl00001gut/when12.txt
 [https://www.constitution.org/usdeclar.txt](https://www.constitution.org/usdeclar.txt)
 -->
 
-## Instructions for setting up SSH keys (passwordless SSH)
+## Instructions for setting up SSH keys (ssh without typing passwords)
 
-[Set up SSH keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1604)
+[Set up SSH keys](https://github.com/PrincetonUniversity/removing_tedium/tree/master/02_passwordless_logins)
 
 <!---
 ## Google Survey
