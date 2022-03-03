@@ -20,6 +20,18 @@ This workshop does not assume prior experience with Linux/Unix systems
 or the bash shell, nor does it assume that you have previously worked
 with a command-line interface (CLI) to a computer.
 
+This workshop is one in a set of four recommended for building fundamental skills for research computing:
+
+1. [Intro to the Linux Command Line] (https://github.com/PrincetonUniversity/introcmdline) (this workshop)
+
+2. [Getting Started With the Research Computing Clusters](https://researchcomputing.princeton.edu/getting-started)
+
+3. [Command Line Power Tools](https://github.com/PrincetonUniversity/cmdline_power_tools)
+
+4. [Removing the Tedium](https://github.com/PrincetonUniversity/removing_tedium)
+
+[Upcomming and past (if recorded) workshops](https://researchcomputing.princeton.edu/learn/workshops-live-training)
+
 ## Adroit
 The workshop *does* assume that you have an account on the Adroit
 cluster (a shared Linux cluster at Princeton on which we will do our
