@@ -22,7 +22,7 @@ with a command-line interface (CLI) to a computer.
 
 This workshop is one in a set of four recommended for building fundamental skills for research computing:
 
-1. [Intro to the Linux Command Line] (https://github.com/PrincetonUniversity/introcmdline) (this workshop)
+1. [Intro to the Linux Command Line](https://github.com/PrincetonUniversity/introcmdline) (this workshop)
 
 2. [Getting Started With the Research Computing Clusters](https://researchcomputing.princeton.edu/getting-started)
 
