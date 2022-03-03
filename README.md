@@ -2,7 +2,7 @@
 
 ## This presentation
 
-[https://github.com/gabeclass/introcmdline](https://github.com/gabeclass/introcmdline)
+[https://github.com/PrincetonUniversity/introcmdline](https://github.com/PrincetonUniversity/introcmdline)
 
 ## About
 These are reference materials for the PiCSciE _virtual_ workshop
@@ -25,7 +25,7 @@ The workshop *does* assume that you have an account on the Adroit
 cluster (a shared Linux cluster at Princeton on which we will do our
 work during the workshop) *and* that you can access Adroit via
 SSH. The PICSciE website offers
-[instructions](https://researchcomputing.princeton.edu/education/training/virtual-workshop-requirements)
+[instructions](https://researchcomputing.princeton.edu/learn/workshops-live-training/requirements-picscie-virtual-workshops)
 for how to connect via SSH.
 
 NOTE that connecting to Adroit (or to the web interface MyAdroit
@@ -155,4 +155,4 @@ the 'Dinky' theme because its seemed apropros of Princeton. To run it, just run
 
 This workshop was prepared by Gabe Perez-Giz. It incorporates some
 elements from an earlier incarnation of this workshop by Ben Hicks and
-borrows some pieces from Jonathan Halverson.
+borrows some pieces from Jonathan Halverson. More recent contributions are from Kevin Abbey.
