@@ -35,8 +35,11 @@ This workshop is one in a set of four recommended for building fundamental skill
 
 ## Reminders
 The live workshop will be recorded
+
 Zoom: https://princeton.zoom.us/my/picscieworkshop
+
 Request an account on Adroit if needed
+
 
 ## Adroit
 The workshop *does* assume that you have an account on the Adroit
