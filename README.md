@@ -32,6 +32,12 @@ This workshop is one in a set of four recommended for building fundamental skill
 
 [Upcomming and past (if recorded) workshops](https://researchcomputing.princeton.edu/learn/workshops-live-training)
 
+
+## Reminders
+The live workshop will be recorded
+Zoom: https://princeton.zoom.us/my/picscieworkshop
+Request an account on Adroit if needed
+
 ## Adroit
 The workshop *does* assume that you have an account on the Adroit
 cluster (a shared Linux cluster at Princeton on which we will do our
@@ -114,17 +120,7 @@ mins) survey. When the time comes, please
 
 ## Resources for further study
 
-* _Ryan's Linux Tutorial_ (a brief but thorough [online
-  tutorial](https://ryanstutorials.net/linuxtutorial/) that reviews
-  many of the same topics covered in this workshop)
-
-* _The Linux Command Line_ (a book by William Shotts -- [free PDF
-online](http://linuxcommand.org/tlcl.php))
-
-* _Introduction to Linux: A Hands on Guide_ (a book by Machtelt
-  Garrels -- free PDFs discoverable online; [full HTML
-  version](https://www.tldp.org/LDP/intro-linux/html/) is online)
-  
+[Learning Resources: the Linux Command Line](https://researchcomputing.princeton.edu/education/external-online-resources/linux)
 
 <!---
 * Afternoon session (Intro to HPC on the Princeton Clusters)
